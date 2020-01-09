@@ -1,4 +1,5 @@
 # I optimized this after seeing someone else's solution
+# This runs in constant time
 class MinStack(object):
  
     def __init__(self):
