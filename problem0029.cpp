@@ -1,3 +1,7 @@
+/*
+ * This solution was accepted but still could use a lot more optimization,
+ * especially for large dividends where either dividend or divisor is negative.
+ */
 class Solution {
 public:
     int divide(int dividend, int divisor) {
